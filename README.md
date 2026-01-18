@@ -90,7 +90,7 @@ Hi, I'm **Sahil**! 👋 A 20-year-old CS Undergrad at **CVR College of Engineeri
 
 ---
 
-## 💎 Featured Projects (The Masterpieces)
+## 💎 Featured Projects
 
 ### ⚡ [Titan-KV: High-Performance In-Memory DB](https://github.com/sahilistrying/Titan-KV)
 > *Targeting: Systems Engineering Roles*
@@ -122,7 +122,7 @@ Hi, I'm **Sahil**! 👋 A 20-year-old CS Undergrad at **CVR College of Engineeri
 
 ---
 
-## 📉 GitHub Activity (The Snake)
+## 📉 GitHub Activity
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahilistrying&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <br>
