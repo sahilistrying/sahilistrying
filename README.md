@@ -35,7 +35,7 @@ Hi, I'm **Sahil**! 👋 A 20-year-old CS Undergrad at **CVR College of Engineeri
 | :--- | :--- | :--- | :--- |
 | **CodeChef** | **[@sssahilh](https://www.codechef.com/users/sssahilh)** | **1665** (3⭐) | Top 5% Global |
 | **LeetCode** | **[safiullah_sahil](https://leetcode.com/safiullah_sahil/)** | **1630** | Top 15% |
-| **Codeforces** | **[sssahilh](https://codeforces.com/profile/sssahilh)** | **1150** | Active Participant |
+| **Codeforces** | **[sssahilh](https://codeforces.com/profile/sssahilh)** | **1302** | PUPIL |
 
 ---
 
