@@ -99,6 +99,20 @@ Hi, I'm **Sahil**! 👋 A 20-year-old CS Undergrad at **CVR College of Engineeri
 - **Flex:** Handles **85,000+ writes/sec** with custom memory management, mimicking Redis architecture.
 - 🔗 **Repository:** [**View Source Code**](https://github.com/sahilistrying/Titan-KV)
 
+### 🏢 [EMS-Backend-Core: Enterprise HR API](https://github.com/sahilistrying/EMS-Backend-Core)
+> *Targeting: Java Full Stack Engineer (Cognizant/FSE)*
+- **What:** A high-throughput RESTful API serving as the core data engine for organizational workforce management.
+- **Tech:** Java 17, Spring Boot, JPA/Hibernate, MySQL, Postman.
+- **Flex:** Engineered robust CRUD endpoints with strict **N-Tier Architecture** and Custom Global Exception Handling.
+- 🔗 **Repository:** [**View Source Code**](https://github.com/sahilistrying/EMS-Backend-Core)
+
+### 💬 [SocialStream: Real-Time Communication Platform](https://github.com/sahilistrying/SocialStream)
+> *Targeting: Modern Full Stack & WebSockets*
+- **What:** A highly concurrent, scalable social platform with real-time distributed leaderboards.
+- **Tech:** React.js, Node.js, Express, MongoDB, Socket.io.
+- **Flex:** Architected server-side state management without polling and deployed via zero-downtime CI/CD pipelines.
+- 🔗 **Repository:** [**View Source Code**](https://github.com/sahilistrying/SocialStream)
+
 ### 🗣️ [VocalVault: Voice-First Banking](https://github.com/sahilistrying/VocalVault)
 > *Targeting: Accessibility & FinTech (JPMC)*
 - **What:** An inclusive banking dashboard controlled entirely by voice for the visually impaired.
@@ -106,19 +120,6 @@ Hi, I'm **Sahil**! 👋 A 20-year-old CS Undergrad at **CVR College of Engineeri
 - **Flex:** Features an **Auditory UI (AUI)** and High-Contrast modes for accessibility-first design.
 - 🔗 **Repository:** [**View Source Code**](https://github.com/sahilistrying/VocalVault)
 
-### 🌐 [ResQ-Bridge: Disaster Relief Platform](https://github.com/sahilistrying/ResQ-Bridge)
-> *Targeting: Full Stack & Social Good*
-- **What:** A centralized command center connecting victims, volunteers, and admins during floods.
-- **Tech:** MERN Stack, Google Maps API, Razorpay, Socket.io.
-- **Flex:** Real-time **Geospatial Tracking** of shelters and live inventory management.
-- 🔗 **Repository:** [**View Source Code**](https://github.com/sahilistrying/ResQ-Bridge)
-
-### 🧠 [VitalSense-AI: Healthcare Intelligence](https://github.com/sahilistrying/VitalSense-AI)
-> *Targeting: AI & Research*
-- **What:** Early disease detection system using Deep Learning on medical imaging.
-- **Tech:** Python, TensorFlow, OpenCV, Flask.
-- **Flex:** Achieved **90%+ accuracy** in pneumonia detection using custom CNN architectures.
-- 🔗 **Repository:** [**View Source Code**](https://github.com/sahilistrying/VitalSense-AI)
 
 ---
 
