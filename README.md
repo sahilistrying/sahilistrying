@@ -99,8 +99,16 @@ Hi, I'm **Sahil**! 👋 A 20-year-old CS Undergrad at **CVR College of Engineeri
 - **Flex:** Handles **85,000+ writes/sec** with custom memory management, mimicking Redis architecture.
 - 🔗 **Repository:** [**View Source Code**](https://github.com/sahilistrying/Titan-KV)
 
+- 
+### 🧠 [Enterprise-RAG-Engine: Multi-Model Knowledge Platform](https://github.com/sahilistrying/Enterprise-RAG-Engine)
+> *Targeting: AI Engineer / Platform Engineering Roles*
+- **What:** A highly scalable Retrieval-Augmented Generation (RAG) architecture for dynamic data retrieval.
+- **Tech:** Python, LangChain, ChromaDB, OpenAI, Google Gemini, Streamlit.
+- **Flex:** Implemented advanced text chunking and **vector similarity search** to dynamically route user prompts across multiple foundation models, eliminating AI hallucinations.
+- 🔗 **Repository:** [**View Source Code**](https://github.com/sahilistrying/Enterprise-RAG-Engine)
+- 
 ### 🏢 [EMS-Backend-Core: Enterprise HR API](https://github.com/sahilistrying/EMS-Backend-Core)
-> *Targeting: Java Full Stack Engineer (Cognizant/FSE)*
+> *Targeting: Java Full Stack Engineer*
 - **What:** A high-throughput RESTful API serving as the core data engine for organizational workforce management.
 - **Tech:** Java 17, Spring Boot, JPA/Hibernate, MySQL, Postman.
 - **Flex:** Engineered robust CRUD endpoints with strict **N-Tier Architecture** and Custom Global Exception Handling.
