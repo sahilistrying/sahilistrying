@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Shaik%20Safiullah%20Sahil%20Hussain&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Full%20Stack%20Architect%20%7C%20Algorithmic%20Programmer&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Shaik%20Safiullah%20Sahil%20Hussain&fontSize=40&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Systems%20Architect%20%7C%20Algorithmic%20Programmer&descAlignY=55&descAlign=50" />
 </div>
 
 <div align="center">
@@ -17,13 +17,12 @@
   <p><b>"I don't just write code; I engineer ecosystems."</b></p>
 </div>
 
-Hi, I'm **Sahil**! 👋 A 20-year-old CS Undergrad at **CVR College of Engineering (Hyderabad)**. I obsess over the *"Why"* behind the *"How"* whether I'm optimizing C++ memory pointers for low-latency systems or crafting accessible, pixel-perfect React UIs.
+Hi, I'm **Sahil**! 👋 A 20-year-old CS Undergrad at **CVR College of Engineering (Hyderabad)**. I obsess over the *"Why"* behind the *"How"* — whether I'm building RAG pipelines and LLM agents for enterprise AI platforms, or optimizing C++ memory pointers for low-latency distributed systems.
 
-- 🎓 **Batch 2027:** B.Tech Computer Science & Engineering.
-- 💻 **Core Focus:** Distributed Systems, Scalable Backend Architecture, and **Algorithmic Optimization** (DSA).
-- 🏆 **Hackathons:** Veteran of National Hackathons; **Smart India Hackathon (SIH) Finalist** & winner of multiple collegiate coding sprints.
-- 🎤 **Leadership:** Executive Lead for multiple **Technical & Cultural Summits**, including **Model United Nations (MUN)** and the **International Startup Fest (ISF)**.
-- 🌟 **Personality:** **Cultural Ambassador & Titleholder** at **Ciencia 2K24** (Recognized for representation & charisma).
+- 🎓 **Batch 2027:** B.Tech Computer Science & Engineering | **CGPA: 9.44 / 10.0**
+- 🤖 **Core Focus:** AI/ML Engineering, LLM Applications, RAG Pipelines, Distributed Systems & Scalable Backend Architecture.
+- 🏆 **Achievements:** **HackWithInfy 2026 — Specialist Programmer L3** (Top 100 nationally, Infosys 21 LPA PPO shortlist) | **SIH Grand Finalist** | **CodeChef Global Rank 42**.
+- 🎤 **Leadership:** MUN High Commendation & Cash Prize | Campus Representative, International Startup Fest (ISF) 2024.
 - ⚡ **Fun Fact:** I treat hitting a Gym PR and merging a GitHub PR with the exact same level of hype. Also, I debug code faster than I rotate in Valorant.
 
 ---
@@ -33,57 +32,60 @@ Hi, I'm **Sahil**! 👋 A 20-year-old CS Undergrad at **CVR College of Engineeri
 
 | Platform | Handle | Rating / Rank | Status |
 | :--- | :--- | :--- | :--- |
+| **LeetCode** | **[safiullah_sahil](https://leetcode.com/safiullah_sahil/)** | **1700+** (Max) | Global Top Percentile |
 | **CodeChef** | **[@sssahilh](https://www.codechef.com/users/sssahilh)** | **1665** (3⭐) | Top 5% Global |
-| **LeetCode** | **[safiullah_sahil](https://leetcode.com/safiullah_sahil/)** | **1630** | Top 15% |
 | **Codeforces** | **[sssahilh](https://codeforces.com/profile/sssahilh)** | **1302** | PUPIL |
 
 ---
 
 ## 🛠 Tech Stack & Arsenal
-*My weapons of choice for building scalable systems.*
 
 <div align="center">
 
 ### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### **AI / ML & GenAI**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### **Backend & Architecture**
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 ### **Frontend & UI**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-### **Backend & Architecture**
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-
-### **Data & Intelligence (AI/ML)**
+### **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### **DevOps & Cloud**
+### **Cloud & DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
@@ -92,42 +94,47 @@ Hi, I'm **Sahil**! 👋 A 20-year-old CS Undergrad at **CVR College of Engineeri
 
 ## 💎 Featured Projects
 
-### ⚡ [Titan-KV: High-Performance In-Memory DB](https://github.com/sahilistrying/Titan-KV)
-> *Targeting: Systems Engineering Roles*
-- **What:** A distributed, multi-threaded Key-Value store engineered from scratch in **C++ 17**.
-- **Tech:** C++, Mutex Concurrency, TCP Sockets, Custom HashMaps.
-- **Flex:** Handles **85,000+ writes/sec** with custom memory management, mimicking Redis architecture.
+### 🧠 [Enterprise-RAG-Engine: Multi-Model Knowledge Platform](https://github.com/sahilistrying/Enterprise-RAG-Engine)
+> *RAG Pipelines | LLMs | Vector Search | GenAI*
+- **What:** A scalable Retrieval-Augmented Generation (RAG) architecture for dynamic, hallucination-free data retrieval from unstructured sources.
+- **Tech:** Python, LangChain, ChromaDB, OpenAI GPT-4, Google Gemini Pro, Mistral-7B, Streamlit.
+- **Highlights:** End-to-end pipeline — PDF/DOCX/CSV ingestion → recursive chunking → ChromaDB vector embeddings → multi-LLM routing across GPT-4, Gemini Pro, and Mistral. Grounds LLM responses in proprietary knowledge bases, eliminating hallucinations.
+- 🔗 **Repository:** [**View Source Code**](https://github.com/sahilistrying/Enterprise-RAG-Engine)
+
+### 🤖 [Enterprise-AI-Agent: Autonomous Multi-Tool AI Agent](https://github.com/sahilistrying/Enterprise-AI-Agent)
+> *AI Agents | ReAct | LangChain | Tool-Calling | FastAPI*
+- **What:** An autonomous LLM agent implementing the ReAct (Reasoning + Acting) pattern for multi-step, tool-driven task execution with stateful memory.
+- **Tech:** Python, LangChain, OpenAI GPT-4, FastAPI, SQLAlchemy, ConversationBufferMemory.
+- **Highlights:** Decomposes complex queries into multi-step tool-calling sequences (SQL lookup, inventory management, order modules) with strict parameter binding. Maintains stateful multi-turn sessions and exposes agent via clean FastAPI REST backend.
+- 🔗 **Repository:** [**View Source Code**](https://github.com/sahilistrying/Enterprise-AI-Agent)
+
+### 🐳 [Cloud-Native-ML-Pipeline: Containerized MLOps Inference Service](https://github.com/sahilistrying/Cloud-Native-ML-Pipeline)
+> *MLOps | FastAPI | Docker | Scikit-learn | Production AI*
+- **What:** A production-grade, end-to-end ML pipeline from data ingestion to containerized REST API deployment — built for cloud-native environments.
+- **Tech:** Python, Scikit-learn, FastAPI, Docker, joblib, Pydantic.
+- **Highlights:** 5-fold cross-validation benchmarking across LR, SVM, Random Forest, and KNN. Async FastAPI inference with Pydantic validation and structured error responses. Full Docker containerization for Kubernetes-ready orchestration on GCP/AWS.
+- 🔗 **Repository:** [**View Source Code**](https://github.com/sahilistrying/Cloud-Native-ML-Pipeline)
+
+### ⚡ [Titan-KV: High-Performance In-Memory Key-Value Store](https://github.com/sahilistrying/Titan-KV)
+> *Systems Engineering | C++17 | Distributed Systems | Concurrency*
+- **What:** A high-throughput, thread-safe in-memory KV store engineered from scratch in C++17 with custom concurrency and a TCP socket server.
+- **Tech:** C++17, Reader-Writer Locks, TCP Sockets, Custom HashMaps, Memory Allocators.
+- **Highlights:** 85,000+ writes/sec | 120,000+ reads/sec | P99 latency < 1ms. Modular architecture across core hashmap, network, and utils layers.
 - 🔗 **Repository:** [**View Source Code**](https://github.com/sahilistrying/Titan-KV)
 
-- 
-### 🧠 [Enterprise-RAG-Engine: Multi-Model Knowledge Platform](https://github.com/sahilistrying/Enterprise-RAG-Engine)
-> *Targeting: AI Engineer / Platform Engineering Roles*
-- **What:** A highly scalable Retrieval-Augmented Generation (RAG) architecture for dynamic data retrieval.
-- **Tech:** Python, LangChain, ChromaDB, OpenAI, Google Gemini, Streamlit.
-- **Flex:** Implemented advanced text chunking and **vector similarity search** to dynamically route user prompts across multiple foundation models, eliminating AI hallucinations.
-- 🔗 **Repository:** [**View Source Code**](https://github.com/sahilistrying/Enterprise-RAG-Engine)
-- 
-### 🏢 [EMS-Backend-Core: Enterprise HR API](https://github.com/sahilistrying/EMS-Backend-Core)
-> *Targeting: Java Full Stack Engineer*
-- **What:** A high-throughput RESTful API serving as the core data engine for organizational workforce management.
-- **Tech:** Java 17, Spring Boot, JPA/Hibernate, MySQL, Postman.
-- **Flex:** Engineered robust CRUD endpoints with strict **N-Tier Architecture** and Custom Global Exception Handling.
-- 🔗 **Repository:** [**View Source Code**](https://github.com/sahilistrying/EMS-Backend-Core)
-
-### 💬 [SocialStream: Real-Time Communication Platform](https://github.com/sahilistrying/SocialStream)
-> *Targeting: Modern Full Stack & WebSockets*
-- **What:** A highly concurrent, scalable social platform with real-time distributed leaderboards.
-- **Tech:** React.js, Node.js, Express, MongoDB, Socket.io.
-- **Flex:** Architected server-side state management without polling and deployed via zero-downtime CI/CD pipelines.
+### 💬 [SocialStream: Real-Time Full-Stack Platform](https://github.com/sahilistrying/SocialStream)
+> *Full Stack | WebSockets | Real-Time | CI/CD*
+- **What:** A highly concurrent, scalable social platform with real-time distributed leaderboards and zero-downtime deployments.
+- **Tech:** React.js, Node.js, Express, MongoDB, Socket.io, JWT + RBAC, Google OAuth.
+- **Highlights:** Stateless REST API designed for horizontal scaling. Real-time Socket.io leaderboard with server-side state management (no polling). Deployed via CI/CD on Vercel & Render.
 - 🔗 **Repository:** [**View Source Code**](https://github.com/sahilistrying/SocialStream)
 
-### 🗣️ [VocalVault: Voice-First Banking](https://github.com/sahilistrying/VocalVault)
-> *Targeting: Accessibility & FinTech (JPMC)*
-- **What:** An inclusive banking dashboard controlled entirely by voice for the visually impaired.
+### 🗣️ [VocalVault: Voice-First Accessible Banking](https://github.com/sahilistrying/VocalVault)
+> *Accessibility | FinTech | Web Speech API | WCAG 2.1*
+- **What:** An inclusive banking dashboard controlled entirely by voice for visually impaired users.
 - **Tech:** React.js, Web Speech API, WCAG 2.1 Compliance.
-- **Flex:** Features an **Auditory UI (AUI)** and High-Contrast modes for accessibility-first design.
+- **Highlights:** Full Auditory UI (AUI) with zero mouse/keyboard dependency and high-contrast screen-reader-first design.
 - 🔗 **Repository:** [**View Source Code**](https://github.com/sahilistrying/VocalVault)
-
 
 ---
 
